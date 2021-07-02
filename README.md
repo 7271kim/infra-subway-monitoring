@@ -98,7 +98,7 @@ https://thread.honbabzone.com/
 # 목푯값 설정
 :latency : 90%가 400ms 이하, 95% 800ms 이하, 99.9% 1.5s 이하 응답 ( load test 기준 )
 :throughput : TPS
- - 1일 총 접속수 = 5000 * 10
+ - 1일 총 접속수 = 10000 * 10
  - 1일 평균 rps = 1.16
  - 1일 최대 rps = 5.8
  - 부하 유지기간 : 30s 
